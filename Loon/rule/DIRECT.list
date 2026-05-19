@@ -6,8 +6,8 @@ DOMAIN,awstlsa.jegotrip.com.cn
 
 #屿森
 DOMAIN,hcyykj-eos-hhht5-01.eos.huhehaote-8.cmecloud.cn
-DOMAIN-SUFFIX,yusen.cyou
-IP-CIDR,51.83.100.187/32,no-resolve
+DOMAIN-KEYWORD,yusen
+IP-CIDR,51.83.100.187/32
 DOMAIN-SUFFIX,cmecloud.cn
 
 
