@@ -48,8 +48,13 @@ DOMAIN,emby.fastcdn.dpdns.org
 
 
 
+
+
+
 # Suffix 类型（更稳）
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org,Emby
 
 
+#屿森
+DOMAIN-KEYWORD,yusen
