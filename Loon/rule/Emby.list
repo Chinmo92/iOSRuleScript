@@ -55,6 +55,8 @@ DOMAIN,emby.fastcdn.dpdns.org
 # 纸片人
 DOMAIN-SUFFIX,embyplus.org,Emby
 
+#骑游兵
+DOMAIN-SUFFIX,111848.xyz
 
 #屿森
 DOMAIN-KEYWORD,yusen
