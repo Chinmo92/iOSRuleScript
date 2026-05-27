@@ -37,9 +37,6 @@ DOMAIN,test.28.al
 DOMAIN,test.startspoint.com
 
 
-#Forward
-DOMAIN,fluxapi.vvebo.vip
-DOMAIN,mock.forward1.workers.dev
 
 
 #Cat
