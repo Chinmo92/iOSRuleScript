@@ -4,17 +4,12 @@
 #DOMAIN-SUFFIX,域名后缀匹配
 #DOMAIN-KEYWORD,只要域名里包含关键词就匹配
 
-
-# HG
-DOMAIN,hgemby.qzz.io
-
-
 # nyamedia
 DOMAIN,emby.bangumi.ca
 
 
 # XYING
-DOMAIN,xying1314.xyz
+
 
 
 # 非越
@@ -29,9 +24,9 @@ DOMAIN,ch.feiyue.lol
 DOMAIN,fych.feiyue.lol
 
 
-# 西瓜
-DOMAIN,cf.xgua.de
-DOMAIN,play.chilledmelon.com
+# 这只猫
+DOMAIN,ca1vip.ftp2.eu.org
+DOMAIN,eb.zzm.li
 
 
 # 起点站
@@ -42,8 +37,7 @@ DOMAIN,test.startspoint.com
 
 
 #Cat
-DOMAIN-SUFFIX,cloudflarestorage.com
-DOMAIN,emby.fastcdn.dpdns.org
+
 
 
 #Lunaris
